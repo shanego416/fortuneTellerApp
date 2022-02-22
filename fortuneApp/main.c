@@ -2,7 +2,7 @@
 //  main.c
 //  fortuneApp
 //
-//  Created by Shane Gouldson on 2022-02-19.
+//  Created by shanego416 on 2022-02-19.
 //
 
 #include <stdio.h>
